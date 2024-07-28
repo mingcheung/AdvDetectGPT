@@ -15,7 +15,7 @@ Here, we demonstrate one examples of our online demo. In this example, AdvDetect
 user's question "Is this an adversarial example or a clean example?", it answers with "This is an adversarial example.".
 
 <p align="center">
-<img src="./online_demo.png" alt="AdvDetectGPT_demo" style="width: 60%; min-width: 300px; display: block; margin: auto;">
+<img src="./assets/online_demo.png" alt="AdvDetectGPT_demo" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 ****
@@ -43,7 +43,7 @@ user's question "Is this an adversarial example or a clean example?", it answers
 ### 1. Introduction <a href='#all_catelogue'>[Back to Top]</a>
 
 <p align="center">
-<img src="AdvDetectGPT.png" alt="AdvDetectGPT" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+<img src="./assets/AdvDetectGPT.png" alt="AdvDetectGPT" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 AdvDetectGPT is an adversarial detector based on the large vision-language models.
