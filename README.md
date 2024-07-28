@@ -14,6 +14,8 @@
 Here, we demonstrate one examples of our online demo. In this example, AdvDetectGPT receives an input image. For the
 user's question "Is this an adversarial example or a clean example?", it answers with "This is an adversarial example.".
 
+
+![AdvDetectGPT_demo](./online_demo.png)
 <p align="center">
 <img src="./online_demo.png" alt="AdvDetectGPT_demo" style="width: 60%; min-width: 300px; display: block; margin: auto;">
 </p>
